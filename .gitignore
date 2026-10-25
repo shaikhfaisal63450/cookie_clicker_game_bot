@@ -1,7 +1,8 @@
-<<<<<<< HEAD
 bot.py
 example.py
-=======
+interaction.py
+main.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -222,4 +223,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
->>>>>>> e76765bb7fb8ccdcdc0d74ce35abeacf87bfc148
