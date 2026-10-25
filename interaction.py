@@ -42,6 +42,6 @@ search.send_keys("Python", Keys.RETURN)
 # Wait only for presence (NOT clickable)
 
 # Now interact manually
-# search.click()
+search.click()
 # search.clear()
-search.send_keys("Python", Keys.RETURN)
+# search.send_keys("Python", Keys.RETURN)
